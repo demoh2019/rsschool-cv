@@ -1,4 +1,5 @@
 1. Krent Alex
+
 2. instagram: garetanic
 3. I have been doing this since childhood, reading books, watching videos. difficult without a teacher.
 4. I know c#, SwiftUI, Pascal, Xamain, Swift, PHP, SQL
