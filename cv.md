@@ -1,5 +1,5 @@
 1. Krent Alex Andree
-2. instagram: garetanic
+2. instagram: garetanic and Telegram; @Mushcal
 3. I have been doing this since childhood, reading books, watching videos. difficult without a teacher.
 4. I know c#, SwiftUI, Pascal, Xamain, Swift, PHP, SQL
 5. Code examples (LATEST)
